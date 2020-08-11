@@ -29,3 +29,4 @@ Ignore each of the following characters:
 ```
 
 If the input contains no ignored characters, return an empty dictionary.
+- Even if there are words??? 
